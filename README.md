@@ -2,13 +2,13 @@
 WORKING WITH EXCEL
 
 # Price Comparisson
-<img src="https://github.com/FeMiqui/solid-tribble/edit/main/assets/Picture1.png">
+![Price comparisson between coins](https://github.com/FeMiqui/solid-tribble/edit/main/assets/Picture1.png)
 
 # Volatility Comparisson
-<img src="https://github.com/FeMiqui/solid-tribble/edit/main/assets/volatility.png">
+![Volatility comparisson between coins](https://github.com/FeMiqui/solid-tribble/edit/main/assets/volatility.png)
 
 # Rate of Growth Comparisson
-<img src="https://github.com/FeMiqui/solid-tribble/edit/main/assets/ROG.png">
+![ROG comparisson between coins](https://github.com/FeMiqui/solid-tribble/edit/main/assets/ROG.png)
 
 # Amount of Updates
-<img src="https://github.com/FeMiqui/solid-tribble/edit/main/assets/updates.png">
+![Coins updates](https://github.com/FeMiqui/solid-tribble/edit/main/assets/updates.png)
